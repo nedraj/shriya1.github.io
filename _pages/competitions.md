@@ -3,7 +3,7 @@ layout: page
 title: Competitions
 permalink: /competitions/
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 {% assign items = site.competitions | sort: "date" | reverse %}
