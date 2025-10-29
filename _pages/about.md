@@ -1,8 +1,15 @@
 ---
-layout: page
+layout: about
 title: About
 permalink: /
+subtitle: Class of 2026 @ Leigh High School, San Jose, CA
+
+profile:
+  align: right
+  image: profile_pic.png
+  image_circular: true # crops the image to make it circular
 ---
+
 
 I'm a passionate student dedicated to advancing human-robot interaction, soft robotics, and accessible design. My work focuses on creating innovative solutions that bridge the gap between humans and technology, making robotics more intuitive and beneficial for society.
 
