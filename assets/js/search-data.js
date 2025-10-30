@@ -7,46 +7,46 @@ ninja.data = [{
     title: "About",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/about/";
+      window.location.href = "/";
     },
   },{id: "nav-projects",
           title: "Projects",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/about/projects/";
+            window.location.href = "/projects/";
           },
         },{id: "nav-honors-amp-awards",
           title: "Honors &amp; Awards",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/about/awards/";
+            window.location.href = "/awards/";
           },
         },{id: "nav-leadership",
           title: "Leadership",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/about/leadership/";
+            window.location.href = "/leadership/";
           },
         },{id: "nav-robotics",
           title: "Robotics",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/about/robotics/";
+            window.location.href = "/robotics/";
           },
         },{id: "awards-national-stem-festival-champion",
           title: 'National STEM Festival — Champion',
           description: "",
           section: "Awards",handler: () => {
-              window.location.href = "/about/awards/2025-national-stem-festival/";
+              window.location.href = "/awards/2025-national-stem-festival/";
             },},{id: "competitions-vex-robotics-state-qualifier-amp-awards",
           title: 'VEX Robotics — State Qualifier &amp;amp; Awards',
           description: "",
           section: "Competitions",handler: () => {
-              window.location.href = "/about/competitions/2025-vex-states/";
+              window.location.href = "/competitions/2025-vex-states/";
             },},{
         id: 'social-email',
         title: 'email',
@@ -66,7 +66,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("/about/feed.xml", "_blank");
+          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
