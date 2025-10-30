@@ -4,9 +4,9 @@
 
 title: "Shriya Nedumaran"
 description: "Shryia Nedumaran - Projects • Awards • Competitions"
-url: "https://www.shriyanedumaran.com/"
-baseurl: "/about"     # keep empty for user sites
-repository: "shriyaned/shriyanedumaran.github.io"
+url: "https://shriyanedumaran.com/"
+baseurl: ""     # keep empty for user sites
+repository: "nedraj.github.io/shriya1.github.io/"
 
 
 # title: blank # the website title (if blank, full name will be used instead)
